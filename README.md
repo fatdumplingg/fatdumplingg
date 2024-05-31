@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🏫 I'm deeply intrigued with high-impact applications, especially those Machine Learning, Pattern Algorithm, or Crytography related. 
 - 🖥️ I teach Java & C++ as the department laboratory assistant, covering 4 classes and 3 professors in total for the past year!
-- ⚡ As used in most of my projects, I'm comfortable with Java, C++, Python, Tensorflow, Pandas, Seaborn, ScikitLearn, and many more. 
+- ⚡ As used in most of my projects, I'm comfortable with Java, C++, Python, Tensorflow, Pandas, Seaborn, ScikitLearn, etc. 
 - 🎮 To keep my left brain working, I periodically become a *Game Designer*, making game apps in [my Itch.io Page](https://littleshumai.itch.io/) too.
 - ✍️ I can be easily contacted through [email](sashannbl@gmail.com) or [LinkedIn](www.linkedin.com/in/sashannbl). Let's talk on projects we can work on together!
 
