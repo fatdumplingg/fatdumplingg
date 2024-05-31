@@ -1,4 +1,4 @@
-## Hi, Sasha here 👋 Good to see you! 
+## Hi, Sasha here 👋 Thanks for stopping by!
 
 <!--
 **fatdumplingg/fatdumplingg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏫 I'm deeply intrigued with high-impact applications, especially those ML, Pattern Algorithm, or Crytography related. 
-- 🖥️ I teach Java & C++ as the department laboratory assistant, covering 4 classes and 3 professors in total for the past year!
-- ⚡ As used in most of my projects, I'm comfortable with Java, C++, Python, Tensorflow, Pandas, Seaborn, ScikitLearn, etc. 
-- 🎮 To keep my left brain working, I periodically become a *Game Designer*, making game apps in [my Itch.io Page](https://littleshumai.itch.io/) too.
-- ✍️ I can be easily contacted through [email](sashannbl@gmail.com) or [LinkedIn](www.linkedin.com/in/sashannbl). Let's talk on projects we can work on together!
+#### ❓ About Me?
+I am currently a 2nd-year undergraduate student working as the department's computing laboratory assistant. This place will be where I store my school and personal projects! 
+Here are some technologies I have been working with :
+- Java
+- C++
+- Python
+- Tensorflow, Pandas, Seaborn, and other libraries
+  
+To keep my right-brain in high performance, I periodically become a 🎮 *Game Designer* too, making playable game apps for competitions. 
+Some are listed in [my Itch.io Page](https://littleshumai.itch.io/)! 
+I'm also quite interested in developments of science, such as in the medical industry.
+
+I can be easily contacted through [email](sashannbl@gmail.com) or [LinkedIn](www.linkedin.com/in/sashannbl). Let's talk on projects we can work on together!
 
