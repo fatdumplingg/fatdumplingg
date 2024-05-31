@@ -1,4 +1,4 @@
-## Hi, Sasha here 👋 Good to see you!
+## Hi, Sasha here 👋 Good to see you! 
 
 <!--
 **fatdumplingg/fatdumplingg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏫 I am currently a second-year university student who is actively seeking internship opportunities :)
-- 👀 I’m deeply intrigued with everything related to Machine Learning and Pattern Algorithms, as seen from most of my listed projects. 
-- 🖥️ After school, I have been teaching Java and C++ as the school's department laboratory assistant for the past year, covering 3 professors in total.
-- ⚡ I am also comfortable working using Python, Tensorflow, Pandas, Seaborn, ScikitLearn, and many more. 
-- 🎮 Apart from those, I enjoy making game applications as a *Game Designer*, and you can head on to [My Itch.io Platform](https://littleshumai.itch.io/) if games are your thing! 
+- 🏫 I am currently a second-year university student who is deeply intrigued with high impact applications, especially those related to Machine Learning and Pattern Algorithms. 
+- 🖥️ I have been teaching Java and C++ as the school's department laboratory assistant for the past year too, covering 4 classes and 3 different professors in total.
+- ⚡ As used in most of my academic projects, I am comfortable working using Java, C++, Python, Tensorflow, Pandas, Seaborn, ScikitLearn, and many more. 
+- 🎮 To test my creativity, I make game applications as a *Game Designer* periodically, so do head to [My Itch.io Page](https://littleshumai.itch.io/) if games are your thing! 
 - ✍️ I can be easily contacted through [email](sashannbl@gmail.com) or [LinkedIn](www.linkedin.com/in/sashannbl). Feel free to reach out for any projects we can work on together!
 
-- P.S. Yes, as you see from my username, dumplings are an absolute, dear favorite food.
+- P.S. Yes, as you see from my username, dumplings are an absolute, dear favorite food!
