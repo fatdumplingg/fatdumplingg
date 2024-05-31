@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🏫 I'm a 2nd-year undergraduate who is deeply intrigued with high-impact applications, especially those Machine Learning or Pattern Algorithm related. 
-- 🖥️ I've been teaching Java & C++ as the department laboratory assistant for the past year too, covering 4 classes and 3 professors in total!
+- 🖥️ I teach Java & C++ as the department laboratory assistant, covering 4 classes and 3 professors in total for the past year!
 - ⚡ As used in most of my academic projects, I am comfortable working using Java, C++, Python, Tensorflow, Pandas, Seaborn, ScikitLearn, and many more. 
-- 🎮 To test my creativity, I make game apps as *Game Designer* periodically, here's [mt Itch.io Page](https://littleshumai.itch.io/) if games are your thing! 
+- 🎮 To keep my left brain working, I make game apps as *Game Designer* in [my Itch.io Page](https://littleshumai.itch.io/) too.
 - ✍️ I can be easily contacted through [email](sashannbl@gmail.com) or [LinkedIn](www.linkedin.com/in/sashannbl). Let's talk on projects we can work on together!
 
