@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 #### 🌻 About Me 🪴
-I am currently a 2nd-year undergraduate student working as the department's Computing Laboratory Assistant. I'm deeply intrigued in the fast-paced developments of IT, particularly anything related to Machine Learning, Pattern Recognition, or Cryptography.
-Here are some technologies I am comfortable working with :
+I'm a 2nd-year undergraduate student working as the department's Computing Laboratory Teaching Assistant. I am also deeply intrigued in the fast-paced developments of IT, particularly anything related to Machine Learning, Pattern Recognition, or Cryptography.
+Some technologies I have comfortably worked with :
 - Java
 - C++
 - Python
