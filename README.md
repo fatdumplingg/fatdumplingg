@@ -27,5 +27,5 @@ To keep my right-brain in high performance, I periodically take *Game Designer* 
 Some are listed in 🎮 [my itch.io page](https://littleshumai.itch.io/)! 
 Outside of those, I am interested in developments of science, such as in the medical industry.
 
-I can be easily contacted through [email](sashannbl@gmail.com) or [LinkedIn](www.linkedin.com/in/sashannbl) 🖤 Let's talk on projects we can work on together!
+I can be easily contacted through [LinkedIn](www.linkedin.com/in/sashannbl) 🖤 Let's talk on projects we can work on together!
 
