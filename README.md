@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### ❓ About Me?
+#### ❓ About Me
 I am currently a 2nd-year undergraduate student working as the department's computing laboratory assistant. This place will be where I store my school and personal projects! 
 Here are some technologies I have been working with :
 - Java
