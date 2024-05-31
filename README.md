@@ -24,7 +24,7 @@ Here are some technologies I am comfortable working with :
 - Tensorflow, Pandas, Seaborn, and other libraries
   
 To keep my right-brain in high performance, I periodically become a 🎮 *Game Designer* too, making playable game apps for competitions. 
-Some are listed in [my Itch.io Page](https://littleshumai.itch.io/)! 
+Some are listed in [my itch.io page](https://littleshumai.itch.io/)! 
 Outside of those, I am interested in developments of science, such as in the medical industry.
 
 I can be easily contacted through [email](sashannbl@gmail.com) or [LinkedIn](www.linkedin.com/in/sashannbl) 🖤 Let's talk on projects we can work on together!
