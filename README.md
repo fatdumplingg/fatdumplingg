@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - ⚡ I am also comfortable working using Python, Tensorflow, Pandas, Seaborn, ScikitLearn, and many more. 
 - 🎮 Apart from those, I enjoy making game applications as a *Game Designer*, and you can head on to [My Itch.io Platform](https://littleshumai.itch.io/) if games are your thing! 
 - ✍️ I can be easily contacted through [email](sashannbl@gmail.com) or [LinkedIn](www.linkedin.com/in/sashannbl). Feel free to reach out for any projects we can work on together!
+
+- P.S. Yes, as you see from my username, dumplings are an absolute, dear favorite food.
