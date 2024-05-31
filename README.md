@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### ❓ About Me
+#### 🌻 About Me 🪴
 I am currently a 2nd-year undergraduate student working as the department's Computing Laboratory Assistant. I'm deeply intrigued in the fast-paced developments of IT, particularly anything related to Machine Learning, Pattern Recognition, or Cryptography.
 Here are some technologies I am comfortable working with :
 - Java
