@@ -12,5 +12,5 @@ To keep my right-brain in its toes, I periodically take *Game Designer* and *UI 
 Some are listed in 🎮 [my itch.io page!](https://littleshumai.itch.io/)
 Outside of those, I am interested in any social developments and daily news.
 
-I can be easily contacted through [LinkedIn]((https://www.linkedin.com/in/sashannbl/)) 🖤 Let's talk on projects we can work on together!
+I can be easily contacted through [LinkedIn](https://www.linkedin.com/in/sashannbl/) 🖤 Let's talk on projects we can work on together!
 
