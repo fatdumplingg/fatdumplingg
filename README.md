@@ -1,4 +1,4 @@
-## Hi, Sasha here 👋  Thanks for stopping by!
+##Hi, Sasha here 👋 
 
 #### 🌻 About Me 🪴
 I'm an undergraduate working part-time as the department's Computing Laboratory Teaching Assistant. I am deeply intrigued in the fast-paced developments of IT, particularly anything related to Machine Learning, Pattern Recognition, or Cryptology. Some technologies I have comfortably worked with are :
